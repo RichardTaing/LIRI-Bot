@@ -112,13 +112,73 @@ function SpotifyThisSong() {
         "\n---------------------------------";
       console.log(output);
       fs.appendFile("log.txt", output, "utf8", function(err) {
-        if (error) {
+        if (err) {
           console.log("Sorry! Couldn't log your results.");
         }
         console.log("LIRI has logged your search!");
       });
     }
   );
+}
+
+function MovieThis() {
+  if (liriResults === "") {
+    liriResults = "Mr. Nobody";
+  }
+  axios
+    .get("http://www.omdbapi.com/?apikey=trilogy&t=" + liriResults)
+    .then(function(response) {
+      console.log(response.data.Title);
+      results = response.data;
+      var title = results.Title;
+      var year = results.Year;
+      ratingsArr = results.Ratings;
+      var IMDB = ratingsArr
+        .filter(function(item) {
+          return item.Source === "Internet Movie Database";
+        })
+        .map(function(item) {
+          return item.Value.toString();
+        });
+      IMDB = IMDB.toString();
+      var RT = ratingsArr
+        .filter(function(item) {
+          return item.Source === "Rotten Tomatoes";
+        })
+        .map(function(item) {
+          return item.Value.toString();
+        });
+      RT = RT.toString();
+      country = results.Country;
+      language = results.Language;
+      plot = results.Plot;
+      actors = results.Actors;
+      var output =
+        "\nTitle: " +
+        title +
+        "\nYear: " +
+        year +
+        "\nIMDB Rating: " +
+        IMDB +
+        "\nRotten Tomatoes Rating: " +
+        RT +
+        "\nCountry: " +
+        country +
+        "\nLanguage: " +
+        language +
+        "\nPlot: " +
+        plot +
+        "\nActors: " +
+        actors +
+        "\n---------------------------------";
+      console.log(output);
+      fs.appendFile("log.txt", output, "utf8", function(err) {
+        if (err) {
+          console.log("Sorry! Couldn't log your results.");
+        }
+        console.log("LIRI has logged your search!");
+      });
+    });
 }
 
 liriSearch();
