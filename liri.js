@@ -12,19 +12,113 @@ var fs = require("fs"); //To read the random.txt file for the do-what-it-says fu
 
 // vars to capture user inputs.
 var command = process.argv[2];
-var value = process.argv[3];
+var liriResults = process.argv.slice(3).join(" ");
 
-switch (command) {
-  case "concert-this":
-    concertThis(value);
-    break;
-  case "spotify-this-song":
-    spotifySong(value);
-    break;
-  case "movie-this":
-    movieThis(value);
-    break;
-  case "do-what-it-says":
-    doThis(value);
-    break;
+// liri.js commands
+function liriSearch() {
+  if (command === "concert-this") {
+    ConcertThis();
+  } else if (command === "spotify-this-song") {
+    SpotifyThisSong();
+  } else if (command === "movie-this") {
+    MovieThis();
+  } else if (command === "do-what-it-says") {
+    fs.readFile("./random.txt", "utf-", function(err, data) {
+      if (err) {
+        console.log("I dont know what just happened!");
+      }
+      (command = data.substring(0, data.indexOf(","))),
+        (liriResults = data.substring(data.indexOf(",") + 2, data.length - 1));
+      liriSearch();
+    });
+  } else {
+    console.log("Enter a valid command");
+  }
 }
+
+//Function for 'concert-this'
+function ConcertThis() {
+  console.log("ConcertThis says liriResults is: ");
+  if (liriResults == "") {
+    console.log("You must include an artist to search.");
+  } else {
+    axios
+      .get(
+        "https://rest.bandsintown.com/artists/" +
+          liriResults +
+          "/events?app_id=codingbootcamp"
+      )
+      .then(function(response) {
+        var results = response.data;
+        for (i = 0; i < results.length; i++) {
+          var venue = results[i].venue.name;
+          if (results[i].country === "Australia") {
+            var location =
+              results[i].venue.city + ", " + results[i].venue.location;
+          } else {
+            results[i].venue.city + ", " + results[i].venue.country;
+          }
+          var date = moment(results[1].datetime);
+          date = date.format("DD/MM/YYYY");
+          var output =
+            "\nVenue: " +
+            venue +
+            "\nLocation: " +
+            location +
+            "\nDate: " +
+            date +
+            "\n-----------------";
+          console.log(output);
+          fs.appendFile("log.txt", output, "utf-8", function(err) {
+            if (err) {
+              console.log("Sorry! Couldn't log your results.");
+            }
+            console.log("LIRI has logged your search!");
+          });
+        }
+      });
+  }
+}
+
+// Function for 'spotify-this-song'
+function SpotifyThisSong() {
+  console.log("SpotifyThisSong says liriResults is: ");
+  if (liriResults == "") {
+    liriResults = "The Sign Ace of Base";
+  }
+  spotify.search(
+    {
+      type: "track",
+      query: liriResults
+    },
+    function(err, data) {
+      if (err) {
+        return console.log("Error occurred finding your song");
+      }
+      var results = data.tracks.items[0];
+      var artist = results.artists[0].name;
+      var name = results.name;
+      var preview = results.preview_url;
+      var album = results.album.name;
+      var output =
+        "\nArtist: " +
+        artist +
+        "\nSong Name: " +
+        name +
+        "\nPreview Link: " +
+        preview +
+        "\nAlbum: " +
+        album +
+        "\n---------------------------------";
+      console.log(output);
+      fs.appendFile("log.txt", output, "utf8", function(err) {
+        if (error) {
+          console.log("Sorry! Couldn't log your results.");
+        }
+        console.log("LIRI has logged your search!");
+      });
+    }
+  );
+}
+
+liriSearch();
