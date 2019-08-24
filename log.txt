@@ -86,3 +86,224 @@ Language: English
 Plot: When a multimillionaire man's son is kidnapped, he cooperates with the police at first but then turns the tables on the kidnappers when he uses the ransom money as a reward for the capture of the kidnappers.
 Actors: Mel Gibson, Rene Russo, Brawley Nolte, Gary Sinise
 ---------------------------------
+Venue: Barclaycard Arena Hamburg
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: The O2 Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: The O2 Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: SSE Hydro
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Resorts World Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: First Direct Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: 3Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: SSE Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Jahrhunderthalle
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Oslo Spektrum
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Ziggo Dome
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: König-Pilsener-ARENA
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: L'Olympia Bruno Coquatrix
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: L'Olympia Bruno Coquatrix
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Rockhal
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Samsung Hall Zürich
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Zenith
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Spark Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Spark Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Brisbane Entertainment Centre
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Rod Laver Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Adelaide Entertainment Centre
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Lotto Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Royal Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Hovet
+Location: undefined
+Date: 11/09/2019
+-----------------
+Artist: Prince
+Song Name: Purple Rain
+Preview Link: https://p.scdn.co/mp3-preview/2fe008411edea4f21355301daa8993663eaf46f8?cid=a2329a6be44a433eb33e69ff54dc5ef6
+Album: Purple Rain
+---------------------------------
+Venue: Barclaycard Arena Hamburg
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Oslo Spektrum
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: The O2 Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Royal Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Resorts World Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: First Direct Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: 3Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: SSE Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Jahrhunderthalle
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Lotto Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Ziggo Dome
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: König-Pilsener-ARENA
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: L'Olympia Bruno Coquatrix
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: L'Olympia Bruno Coquatrix
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Rockhal
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: SSE Hydro
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Zenith
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Spark Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Spark Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Brisbane Entertainment Centre
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Rod Laver Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Adelaide Entertainment Centre
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: The O2 Arena
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Hovet
+Location: undefined
+Date: 11/09/2019
+-----------------
+Venue: Samsung Hall Zürich
+Location: undefined
+Date: 11/09/2019
+-----------------

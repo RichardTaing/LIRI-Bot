@@ -73,9 +73,9 @@ function ConcertThis() {
             if (err) {
               console.log("Sorry! Couldn't log your results.");
             }
-            console.log("LIRI has logged your search!");
           });
         }
+        console.log("LIRI has logged your search!");
       });
   }
 }
