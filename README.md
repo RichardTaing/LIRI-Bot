@@ -48,7 +48,7 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 Demo can be viewed here:
 
-![liri-demo](/video/liri-bot.mov)
+![liri-demo](/video/liri-bot.mp4)
 
 ## TECHNOLOGIES USED
 
