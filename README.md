@@ -39,12 +39,16 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
     Output: The system will display information associated with the movie. The system will also log all the results in the log.txt file.
 
     **Example 4**: Run the `do-what-it-says` command
-      
-     node liri.js do-what-it-says
-      
+
+    node liri.js do-what-it-says
+
     Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.
 
     ***
+
+Demo can be viewed here:
+
+![liri-demo](/video/liri-bot.mov)
 
 ## TECHNOLOGIES USED
 

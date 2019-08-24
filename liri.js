@@ -23,7 +23,7 @@ function liriSearch() {
   } else if (command === "movie-this") {
     MovieThis();
   } else if (command === "do-what-it-says") {
-    fs.readFile("./random.txt", "utf-", function(err, data) {
+    fs.readFile("./random.txt", "utf-8", function(err, data) {
       if (err) {
         console.log("I dont know what just happened!");
       }

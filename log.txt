@@ -307,3 +307,345 @@ Venue: Samsung Hall Zürich
 Location: undefined
 Date: 11/09/2019
 -----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Button Factory
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: New Morning
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Melkweg
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Batschkapp
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Grosse Freiheit 36
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Astra Kulturhaus
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Praga Centrum
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Lucerna Music Bar
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: TonHalle München (im Werksviertel Mitte)
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Conne Island
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Live Music Hall
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Music Box
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Roxy Theatre
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Independent
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Fine Line Music Cafe
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Middle East Downstairs
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Gorilla
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Subterranean
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Cervantes Masterpiece Ballroom
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Brooklyn Bowl
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Crocodile
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Distrikt
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Commodore Ballroom
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Le Belmont sur le Boulevard
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Barrymore's
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Opera House
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Aggie Theatre
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Metro Music Hall
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Republik
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Gateway (SAIT)
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: La Belle Angele
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Doug Fir Lounge
+Location: undefined
+Date: 07/09/2019
+-----------------
+Artist: Gucci Mane
+Song Name: ICE (feat. Gunna & Lil Baby)
+Preview Link: https://p.scdn.co/mp3-preview/d6d5380a7a5c06f787a11dc371a6fa199cc885ea?cid=a2329a6be44a433eb33e69ff54dc5ef6
+Album: Delusions of Grandeur
+---------------------------------
+Artist: Bill Medley
+Song Name: (I've Had) The Time of My Life - From "Dirty Dancing" Soundtrack
+Preview Link: https://p.scdn.co/mp3-preview/a8fb0eb28d9d8f6ca56252a18ba84ecbe434a294?cid=a2329a6be44a433eb33e69ff54dc5ef6
+Album: Platinum & Gold Collection
+---------------------------------
+Title: Lock, Stock and Two Smoking Barrels
+Year: 1998
+IMDB Rating: 8.2/10
+Rotten Tomatoes Rating: 75%
+Country: UK
+Language: English
+Plot: A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.
+Actors: Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham
+---------------------------------
+Title: Zen
+Year: 2011
+IMDB Rating: 7.9/10
+Rotten Tomatoes Rating: 
+Country: UK, Italy, Germany
+Language: English
+Plot: Detective Aurelio Zen brings justice to modern-day Italy.
+Actors: Rufus Sewell, Caterina Murino, Nathalie Rapti Gomez, Stanley Townsend
+---------------------------------
+Title: Spiderman
+Year: 1990
+IMDB Rating: 5.7/10
+Rotten Tomatoes Rating: 
+Country: Switzerland
+Language: German
+Plot: N/A
+Actors: N/A
+---------------------------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Qudos Bank Arena
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Gorilla
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Melkweg
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Batschkapp
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Button Factory
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Astra Kulturhaus
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Praga Centrum
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Lucerna Music Bar
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: TonHalle München (im Werksviertel Mitte)
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Conne Island
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Live Music Hall
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Music Box
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Roxy Theatre
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Independent
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Fine Line Music Cafe
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: La Belle Angele
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Brooklyn Bowl
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Subterranean
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Cervantes Masterpiece Ballroom
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Doug Fir Lounge
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Crocodile
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Middle East Downstairs
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Commodore Ballroom
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Gateway (SAIT)
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Le Belmont sur le Boulevard
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Barrymore's
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Opera House
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Aggie Theatre
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Metro Music Hall
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: The Republik
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: New Morning
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Grosse Freiheit 36
+Location: undefined
+Date: 07/09/2019
+-----------------
+Venue: Distrikt
+Location: undefined
+Date: 07/09/2019
+-----------------
+Artist: Gucci Mane
+Song Name: ICE (feat. Gunna & Lil Baby)
+Preview Link: https://p.scdn.co/mp3-preview/d6d5380a7a5c06f787a11dc371a6fa199cc885ea?cid=a2329a6be44a433eb33e69ff54dc5ef6
+Album: Delusions of Grandeur
+---------------------------------
+Artist: Bill Medley
+Song Name: (I've Had) The Time of My Life - From "Dirty Dancing" Soundtrack
+Preview Link: https://p.scdn.co/mp3-preview/a8fb0eb28d9d8f6ca56252a18ba84ecbe434a294?cid=a2329a6be44a433eb33e69ff54dc5ef6
+Album: Platinum & Gold Collection
+---------------------------------
+Title: Lock, Stock and Two Smoking Barrels
+Year: 1998
+IMDB Rating: 8.2/10
+Rotten Tomatoes Rating: 75%
+Country: UK
+Language: English
+Plot: A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.
+Actors: Jason Flemyng, Dexter Fletcher, Nick Moran, Jason Statham
+---------------------------------
+Title: Spiderman
+Year: 1990
+IMDB Rating: 5.7/10
+Rotten Tomatoes Rating: 
+Country: Switzerland
+Language: German
+Plot: N/A
+Actors: N/A
+---------------------------------
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a2329a6be44a433eb33e69ff54dc5ef6
+Album: The Hits--Chapter One
+---------------------------------
